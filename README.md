@@ -30,9 +30,10 @@ You need to have **Python** installed. You'll also need the following tools:
 
 ### Installation
 
-1.  **Clone the repository (if applicable):**
+1.  **Clone the repository :**
     ```bash
-    # git clone <repository-url>
+    # git clone https://github.com/Varsanrecp/LinkedIn-scraper.git
+
     ```
 
 2.  **Install the required Python libraries:**
